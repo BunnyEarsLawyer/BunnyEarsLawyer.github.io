@@ -33,10 +33,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   archive = "archives"
 
 [author]
-  name = "Firstname Lastname"
+  name = "Bunny Ears Lawyer"
   bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  job = "Lawyer"
+  location = "Mississippi"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
