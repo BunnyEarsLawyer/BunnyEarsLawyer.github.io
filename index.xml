@@ -6,20 +6,29 @@
     <description>Recent content on The coolest website in the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2018 21:09:14 -0500</lastBuildDate>
     
 	<atom:link href="/./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/./2015/07/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Introduction</title>
+      <link>/./2018/02/introduction/</link>
+      <pubDate>Sat, 17 Feb 2018 21:09:14 -0500</pubDate>
       
-      <guid>/./2015/07/hello-r-markdown/</guid>
-      <description>Introduction Hi! This is my first blog for all the notes and projects I do.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00 fit &amp;lt;- lm(dist ~ speed, data = cars) fit ## ## Call: ## lm(formula = dist ~ speed, data = cars) ## ## Coefficients: ## (Intercept) speed ## -17.</description>
+      <guid>/./2018/02/introduction/</guid>
+      <description>Hi! This is my first blog for all the notes and projects I do.
+ </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/./2018/02/introduction/</link>
+      <pubDate>Sat, 17 Feb 2018 21:09:14 -0500</pubDate>
+      
+      <guid>/./2018/02/introduction/</guid>
+      <description>Hi! This is my first blog for all the notes and projects I do.
+ </description>
     </item>
     
     <item>
