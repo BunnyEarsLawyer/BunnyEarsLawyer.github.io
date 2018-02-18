@@ -6,19 +6,10 @@
     <description>Recent content in Tags on The coolest website in the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/./tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Chinese</title>
-      <link>/./tags/chinese/</link>
-      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/./tags/chinese/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Cover Image</title>
@@ -32,7 +23,7 @@
     <item>
       <title>Dailymotion</title>
       <link>/./tags/dailymotion/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/./tags/dailymotion/</guid>
       <description></description>
@@ -107,15 +98,6 @@
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>/./tags/image-gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Japanese</title>
-      <link>/./tags/japanese/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/./tags/japanese/</guid>
       <description></description>
     </item>
     
@@ -212,7 +194,7 @@
     <item>
       <title>Videos Integration</title>
       <link>/./tags/videos-integration/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/./tags/videos-integration/</guid>
       <description></description>
@@ -221,7 +203,7 @@
     <item>
       <title>Vimeo</title>
       <link>/./tags/vimeo/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/./tags/vimeo/</guid>
       <description></description>
@@ -230,7 +212,7 @@
     <item>
       <title>Youtube</title>
       <link>/./tags/youtube/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/./tags/youtube/</guid>
       <description></description>
