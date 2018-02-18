@@ -23,7 +23,7 @@ metaAlignment: center
 Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 <!--more-->
 
-![Tranquilpeak](/img/showcase.png)
+![Tranquilpeak](/img/guts.jpg)
 Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 <!-- toc -->
 

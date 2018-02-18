@@ -4,6 +4,7 @@ date: 2013-02-18
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/image-gallery-showcase/city-140.jpg
 gallery:
+- https://i.imgur.com/MuyLSEs.jpg?1
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg "Mercedes"
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg "Lamborghini"
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10.jpg //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10.jpg "Nissan"
