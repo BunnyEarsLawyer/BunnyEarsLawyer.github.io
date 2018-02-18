@@ -41,7 +41,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   gravatarEmail = "smileumatter@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = 
 
 # Menu Configuration
 [[menu.main]]
